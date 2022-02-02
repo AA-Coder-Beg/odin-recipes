@@ -16,6 +16,7 @@ The Odin Projects Recipes
         <li> Fudge-Topped Brownies </li>
         <li> Rich Chocolate Peanut Butter Cake </li>
         <li> Creamy Center Cupcakes </li>
+        <li> Chocolate Crunch Brownies </li>
     </ol>
 <a href="https://www.tasteofhome.com/collection/recipes-with-marshmallow-creme/"> Click here </a> for the link to more recipes. 
 </p>
