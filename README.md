@@ -7,12 +7,17 @@ The Odin Projects Recipes
 <h1> Contents </h1>
 <p> These are the contents of my version of The Odin Recipes: <br> NOTE: Still a WIP </p>
 <h2> Marshmallow Creme </h2>
-<p> These are the recipes that utilize that jar of marshmallow creme in your pantry: <br> 
-Mississippi Mud Cake <br>
-Ribbon Fantasy Fudge <br>
-Easy Peanut Butter Fudge <br>
-Rocky Road Fudge Pops <br>
-Fudge-Topped Brownies <br>
+<p> These are the recipes that utilize that jar of marshmallow creme in your pantry: (ordered by added chronologically) <br> 
+    <ol>
+        <li> Mississippi Mud Cake </li>
+        <li> Ribbon Fantasy Fudge </li>
+        <li> Easy Peanut Butter Fudge </li>
+        <li> Rocky Road Fudge Pops </li>
+        <li> Fudge-Topped Brownies </li>
+        <li> Rich Chocolate Peanut Butter Cake </li>
+        <li> Creamy Center Cupcakes </li>
+    </ol>
+<a href="https://www.tasteofhome.com/collection/recipes-with-marshmallow-creme/"> Click here </a> for the link to more recipes. 
 </p>
 <h2> Peanut Butter </h2>
 <p> These are recipes that specialize or have peanut butter as a main ingredient </p>
