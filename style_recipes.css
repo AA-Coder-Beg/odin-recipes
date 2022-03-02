@@ -1,9 +1,43 @@
 h1 {
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
+    color: tomato;
 }
 
 p {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    color: aquamarine;
+}
+
+#mudcake {
+    background-color: saddlebrown;
+}
+
+#fantasyfudge {
+    background-color: rosybrown;
+}
+
+#pbfudge {
+    background-color: sandybrown;
+}
+
+#rockyroad {
+    background-color: sienna;
+}
+
+#fudgebrownies {
+    background-color: #60311b;
+}
+
+#chocopbcake {
+    background-color: #512714;
+}
+
+#creamycupcakes {
+    background-color: #472e22;
+}
+
+#chocobrownies {
+    background-color: #60311b;
 }
