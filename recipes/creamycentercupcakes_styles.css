@@ -1,0 +1,15 @@
+#ingredients, #directions, p {
+    font-size: 18px;
+}
+
+#ingredients {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#directions {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#title {
+    color: #472e22;
+}
